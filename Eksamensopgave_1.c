@@ -1,6 +1,3 @@
-/* Magni Jogvansson Hansen */
-/* mjha19@student.aau.dk */
-/* A322 Software*/
 
 #include <stdio.h>
 #include <math.h>
